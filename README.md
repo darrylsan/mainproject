@@ -7,7 +7,7 @@
 ![Live class](https://img.shields.io/badge/Main-Project-lightgrey)
 
 
-## What I have learned from this Project [Live Link]()
+## What I have learned from this Project [Live Link](https://darryl-santmayor-porfolio.netlify.app)
 
 - Good knowledge on Html and Css
 - Learnt how to use Tailwind Css
